@@ -41,7 +41,7 @@ Bash
 
 npm start
 Open http://localhost:3000 to view it in your browser.
-
+```
 📂 Project Structure
 src/
 ├── Components/
@@ -50,6 +50,7 @@ src/
 │   └── Button.js
 ├── App.js
 └── index.js
+```
 🤝 Contributing
 Contributions are welcome! If you have any suggestions to improve this project, feel free to open an issue or submit a pull request.
 
